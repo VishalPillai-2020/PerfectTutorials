@@ -1,18 +1,19 @@
 
 body{
-    background-image: url("Tutorial-Graphic_Web-04.JPG");
+    background-image: url("Tutorial-Graphic_Web-04.jpg");
     background-repeat:no-repeat;
     background-size:cover;
 }
 
 #h31{ 
-    margin-top:210px !important;
+    margin-top:150px !important;
     font-family:simplifica !important;
     text-align:center !important;
     font-size:30px !important;
     -webkit-font-smoothing: antialiased !important;
     -moz-osx-font-smoothing: grayscale !important;
     background-repeat:no-repeat !important;
+    
 }
 #Visions_text{
     font-size:40px !important;
