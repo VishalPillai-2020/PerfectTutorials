@@ -1,0 +1,65 @@
+
+body{
+    background-image: url("Tutorial-Graphic_Web-04.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+#h31{ 
+    margin-top:210px !important;
+    font-family:simplifica !important;
+    text-align:center !important;
+    font-size:30px !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    background-repeat:no-repeat !important;
+}
+#Visions_text{
+    font-size:40px !important;
+    font-family:simplifica !important;
+margin-left:490px !important;
+    line-height:2.3;
+    color:white;
+    font-style:bold;
+    background-color:rgba(128, 128, 128, 0.418);
+}
+#Visions img {
+    width:350px !important;
+    height:200px !important;
+    border-radius:10px !important;
+    margin-left:50px !important;
+}
+#Visions{
+    border: 2px inset grey !important;
+    width:100%!important;
+    border-radius:10px !important;
+    padding-bottom:290px !important;
+}
+p{
+    font-family:simplifica;
+    font-size:25px;
+    font-style:bold;
+    background-color:rgba(255, 255, 255, 0.452);
+    padding:5px;
+    border-radius:5px;
+    margin-top:30px !important;
+}
+a{
+    font-size:30px;
+    font-family:simplifica !important;
+    color:black !important;
+    font-style:bold;
+    
+}
+a img{
+width:50px;
+height:45px;
+border-radius:10px;
+margin-left:20px;
+margin-top:10px;
+
+}
+#cc{
+    font-size:16px !important;
+    margin-left:30px;
+}
